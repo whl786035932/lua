@@ -1,0 +1,1 @@
+该项目实在docker 拉取镜像lapisv03  需要在docker 启动的时候传递参数，和配合linux 的定时任务 ，lapis server 启动项目
